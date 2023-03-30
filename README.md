@@ -2,5 +2,5 @@
 Installation:
 
 ```
-go get github.com/sashabaranov/go-openai
+go get github.com/CH1006/go-openai
 ```
